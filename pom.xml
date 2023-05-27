@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>ajit.hunjan</groupId>
-  <artifactId>02-Ajit.Hunjan-App</artifactId>
+  <artifactId>02-Opkar.Hunjan-App</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>01-Hunjan-App Maven Webapp</name>
