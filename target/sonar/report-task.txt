@@ -1,0 +1,6 @@
+projectKey=in.ashokit:Golf-app
+serverUrl=http://13.40.103.162:9000
+serverVersion=9.9.1.69595
+dashboardUrl=http://13.40.103.162:9000/dashboard?id=in.ashokit%3AGolf-app
+ceTaskId=AYia8Nw_sPgaYC71l2uo
+ceTaskUrl=http://13.40.103.162:9000/api/ce/task?id=AYia8Nw_sPgaYC71l2uo
