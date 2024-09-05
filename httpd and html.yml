@@ -6,7 +6,7 @@
      yum:
       name: httpd
       state: present
-   - name: Copy index2.html
+   - name: Copy index3.html
      copy:
         src: index.html
         dest: /var/www/html/index.html
